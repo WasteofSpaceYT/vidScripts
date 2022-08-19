@@ -19,7 +19,7 @@ TLDR; Made by a company I've never heard of, bought by Adobe, streams audio and 
 // RTMP is a protocol made by a company called Macromedia which was later // bought by Adobe. It was made to stream audio, video, and other data over // the internet between Adobe Flash Player and a server.
 -- end Explaination of RTMP --
 
-Unluckily for us, It was made for Adobe Flash and Adobe shut down Flash Player last year so we can't just go streight from rtmp to browser. We need to convert the stream.
+Unluckily for us, It was made for Adobe Flash and Adobe shut down Flash Player so we can't just go streight from rtmp to browser. We need to convert the stream.
 -- End of Nginx and rtmp in Linux server --
 
 -- Convert to HLS --
